@@ -1,0 +1,7 @@
+beautifulsoup4~=4.11.1
+selenium~=4.4.0
+selenium-stealth
+requests
+lxml
+PySimpleGUI~=4.60.3
+webdriver_manager
